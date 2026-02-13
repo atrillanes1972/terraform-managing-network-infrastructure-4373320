@@ -51,3 +51,9 @@ variable "public_key" {
   type         = string
   sensitive    = true
 }
+
+variable "pub_key" {
+  description  = "Path to public key"
+  type         = string
+  sensitive    = true
+}
