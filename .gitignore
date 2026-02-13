@@ -17,3 +17,5 @@ override.tf.json
 *_override.tf.json
 .terraformrc
 terraform.rc
+admin-terraform_AccessKeys.csv
+admin-terraform_accessKeys.csv
